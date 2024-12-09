@@ -2,26 +2,30 @@
 body {
   font-family: Arial, sans-serif; 
   text-align: center; 
-  background-color: #0a0707;
   margin: 0; 
   padding: 0; 
+ 
+
 }
 
 /* Main container styling */
 .container {
   margin: 50px auto; 
+  margin-top: 20px;
   max-width: 1200px; 
   padding: 20px; 
-  background: white; 
-  box-shadow: 5px 4px 6px rgb(255, 217, 0);
+  background: rgb(75, 74, 74); 
+  box-shadow: 5px 5px 5px  rgb(255, 217, 0);
   border-radius: 8px; 
   height: auto; 
+  
+  
 }
 
 /* Styling for the heading */
 h1 {
-  color: #333; 
-  font-style: italic; 
+  color: #ffffff; 
+  font-style: italic;
 }
 
 /* Input section styling */
