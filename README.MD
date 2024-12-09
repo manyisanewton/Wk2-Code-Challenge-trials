@@ -1,6 +1,7 @@
 # An Interactive Shopping List 
- # website link
-  <https://manyisanewton.github.io/Wk2-Code-Challenge./> <br>
+
+  <https://manyisanewton.github.io/Wk2-Code-Challenge./>  
+  <br>
 This  is a shopping list website it allows The buyers to add there items to The list <br>
 It also allows them to mark The items in The list as purchased <br>
 The website also allows The buyer to delite unwanted items from The list <br>
